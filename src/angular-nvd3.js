@@ -175,7 +175,7 @@
                                     }
                             }
                             scope.chart = null;
-                            nv.tooltip.cleanup();
+                            
                         },
 
                         // Get full directive scope
